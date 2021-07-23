@@ -5,7 +5,7 @@ mutation movies_actions {
     value: { 
       genre:"Action", 
       year:2015,
-      title:"Creed",
+      title:"nagarjun's life",
       synopsis:"The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
       duration:133,
       thumbnail:"https://i.imgur.com/NQTuLtb.mp4"}) {
@@ -16,7 +16,7 @@ mutation movies_actions {
     value: { 
       genre:"Action", 
       year:2005,
-      title:"Creed",
+      title:"nagarjun's life",
       synopsis:"The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
       duration:133,
       thumbnail:"https://i.imgur.com/NQTuLtb.mp4"}) {
@@ -27,7 +27,7 @@ mutation movies_actions {
     value: { 
       genre:"Action", 
       year:1995,
-      title:"Creed",
+      title:"nagarjun's life",
       synopsis:"The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
       duration:133,
       thumbnail:"https://i.imgur.com/NQTuLtb.mp4"}) {
