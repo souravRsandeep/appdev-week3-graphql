@@ -33,13 +33,13 @@ const HeroSection = () => {
                 <span>
                   <i className="fas fa-play"></i>
                 </span>
-                Play
+                chitravannu shuru madallu ee button annu othi
               </div>
               <div className="button more">
                 <span>
                   <i className="fas fa-info-circle"></i>
                 </span>
-                More info
+                inna yennardre beeka? click maadi.
               </div>
             </div>
           </div>
