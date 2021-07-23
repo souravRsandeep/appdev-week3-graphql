@@ -33,7 +33,7 @@ const HeroSection = () => {
                 <span>
                   <i className="fas fa-play"></i>
                 </span>
-                chitravannu shuru madallu ee button annu othi
+                Movie shuruvagalu ee button annu otthi
               </div>
               <div className="button more">
                 <span>
