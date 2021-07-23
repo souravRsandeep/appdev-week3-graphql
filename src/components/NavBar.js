@@ -6,7 +6,7 @@ const NavBar = () => {
           <div className="logo"></div>
         </li>
         <li>
-          <a href="/">Home</a>
+          <a href="/">home(Mane)</a>
         </li>
       </ul>
     </div>
